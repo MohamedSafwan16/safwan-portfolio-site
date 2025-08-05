@@ -242,7 +242,7 @@ Sent from Safwan's Portfolio Website`;
               <div className="relative">
                 <div className="w-80 h-80 rounded-full bg-gradient-to-r from-red-600 to-red-800 p-1 shadow-2xl shadow-red-900/50">
                   <img src="https://imgur.com/aCJWb9y"
-                    alt=""
+                    alt="Safwan - Graphic Designer"
                     className="w-full h-full rounded-full object-cover"
                   />
                 </div>
@@ -253,7 +253,7 @@ Sent from Safwan's Portfolio Website`;
             {/* Hero Content */}
             <div className="text-center lg:text-left">
               <h1 className="text-5xl lg:text-7xl font-bold mb-6">
-                Hi, I'm <span className="text-red-500">Safwan</span>
+                
               </h1>
               <h2 className="text-2xl lg:text-3xl mb-6 text-gray-300">
                 I'm a <span className="text-red-500 font-semibold">Graphic Designer</span>
