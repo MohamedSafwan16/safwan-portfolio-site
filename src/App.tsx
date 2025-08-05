@@ -242,7 +242,7 @@ Sent from Safwan's Portfolio Website`;
               <div className="relative">
                 <div className="w-80 h-80 rounded-full bg-gradient-to-r from-red-600 to-red-800 p-1 shadow-2xl shadow-red-900/50">
                   <img src="https://imgur.com/aCJWb9y"
-                    alt="Safwan - Graphic Designer"
+                    alt=""
                     className="w-full h-full rounded-full object-cover"
                   />
                 </div>
