@@ -253,7 +253,7 @@ Sent from Safwan's Portfolio Website`;
             {/* Hero Content */}
             <div className="text-center lg:text-left">
               <h1 className="text-5xl lg:text-7xl font-bold mb-6">
-                
+                Hi, I'm <span className="text-red-500">Safwan</span>
               </h1>
               <h2 className="text-2xl lg:text-3xl mb-6 text-gray-300">
                 I'm a <span className="text-red-500 font-semibold">Graphic Designer</span>
