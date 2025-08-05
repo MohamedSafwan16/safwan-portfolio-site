@@ -241,7 +241,7 @@ Sent from Safwan's Portfolio Website`;
             <div className="flex justify-center lg:justify-start">
               <div className="relative">
                 <div className="w-80 h-80 rounded-full bg-gradient-to-r from-red-600 to-red-800 p-1 shadow-2xl shadow-red-900/50">
-                  <img src="https://imgur.com/aCJWb9y"
+                  <img src="https://i.imgur.com/aCJWb9y.png"
                     alt="Safwan - Graphic Designer"
                     className="w-full h-full rounded-full object-cover"
                   />
